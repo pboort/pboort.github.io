@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pboort.github.io/UPR/sitemap.UPR.gz
